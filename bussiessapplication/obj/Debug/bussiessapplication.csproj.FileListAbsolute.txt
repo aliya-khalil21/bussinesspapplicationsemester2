@@ -1,0 +1,7 @@
+D:\2nd semester\bussiessapplication\bussiessapplication\obj\Debug\bussiessapplication.csproj.AssemblyReference.cache
+D:\2nd semester\bussiessapplication\bussiessapplication\obj\Debug\bussiessapplication.csproj.CoreCompileInputs.cache
+D:\2nd semester\bussiessapplication\bussiessapplication\bin\Debug\bussiessapplication.exe.config
+D:\2nd semester\bussiessapplication\bussiessapplication\bin\Debug\bussiessapplication.exe
+D:\2nd semester\bussiessapplication\bussiessapplication\bin\Debug\bussiessapplication.pdb
+D:\2nd semester\bussiessapplication\bussiessapplication\obj\Debug\bussiessapplication.exe
+D:\2nd semester\bussiessapplication\bussiessapplication\obj\Debug\bussiessapplication.pdb
